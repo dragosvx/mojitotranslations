@@ -1,0 +1,48 @@
+{
+    "locales": [
+         {
+             "smartling" : "zh-CN",
+             "application" : "zh-cn"
+         },
+         {
+             "smartling" : "fr",
+             "application" : "fr"
+         },
+         {
+             "smartling" : "fr-FR",
+             "application" : "fr-fr"
+         },		
+         {
+             "smartling" : "es",
+             "application" : "es"
+         },
+         {
+             "smartling" : "it",
+             "application" : "it"
+         },		
+         {
+             "smartling" : "nl",
+             "application" : "nl"
+         },		
+         {
+             "smartling" : "pt",
+             "application" : "pt"
+         },		
+         {
+             "smartling" : "pt-PT",
+             "application" : "pt-pt"
+         },		
+         {
+             "smartling" : "pt-PT",
+             "application" : "pt-pt"
+         }
+     ],
+
+     "resourceSets": [
+         {
+            "type"                      : "xliff",
+            "pathRegex"                 : "mojito\\/.*\\.xliff",
+			"translationCommitMessage"  : "Translate ${originalFile.fullName} to ${locale}" 
+         }
+     ]
+}
