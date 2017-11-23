@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <file datatype="javapropertyresourcebundle" original="en.properties" source-language="en" target-language="pt_PT">
+        <body>
+            <trans-unit id="f0ab9284a353f3610e815eff63031843" resname="header.workbench">
+                <source xml:lang="en">Workbench</source>
+                <target xml:lang="pt_PT">Workbench</target>
+            </trans-unit>
+            <trans-unit id="e3cfee00a9316e94906d79bebbb3918a" resname="header.repositories">
+                <source xml:lang="en">Repositories</source>
+                <target xml:lang="pt_PT">Repositories</target>
+            </trans-unit>
+            <trans-unit id="7fc50498661cfc74f49f422b0bd6fb94" resname="header.projectRequests">
+                <source xml:lang="en">Project Requests</source>
+                <target xml:lang="pt_PT">Project Requests</target>
+            </trans-unit>
+            <trans-unit id="862942ca110846c5474de6507133e657" resname="header.settings">
+                <source xml:lang="en">Settings</source>
+                <target xml:lang="pt_PT">Settings</target>
+            </trans-unit>
+            <trans-unit id="5cb88cee2f5ddd825afcc02dedb8e2a9" resname="repositories.table.header.name">
+                <source xml:lang="en">Name</source>
+                <target xml:lang="pt_PT">Name</target>
+            </trans-unit>
+            <trans-unit id="2bef0796eb67556483631ca738a3d8ea" resname="repositories.table.header.description">
+                <source xml:lang="en">Description</source>
+                <target xml:lang="pt_PT">Description</target>
+            </trans-unit>
+            <trans-unit id="5afc1134b8688c3134e3a79b894f4f2d" resname="repositories.table.header.rejected">
+                <source xml:lang="en">Rejected</source>
+                <target xml:lang="pt_PT">Rejected</target>
+            </trans-unit>
+            <trans-unit id="5f0022bbfc1dcce21baa22fd1de927d6" resname="repositories.table.header.needsTranslation">
+                <source xml:lang="en">Need Translation</source>
+                <target xml:lang="pt_PT">Need Translation</target>
+            </trans-unit>
+            <trans-unit id="2655c77cee13e44277f54a2c2b74c2c7" resname="repositories.table.header.needsReview">
+                <source xml:lang="en">Need Review</source>
+                <target xml:lang="pt_PT">Need Review</target>
+            </trans-unit>
+            <trans-unit id="4f91d07a05540de4494ba58f13b7d5f6" resname="repositories.table.row.numberOfWords">
+                <source xml:lang="en">{numberOfWords, plural, =1 {# word} other {# words}}</source>
+                <target xml:lang="pt_PT">{numberOfWords, plural, =1 {# word} other {# words}}</target>
+            </trans-unit>
+            <trans-unit id="cfa4203363a301b81cfdb49d32073407" resname="repositories.table.row.rejected">
+                <source xml:lang="en">{numberOfRejected, plural, =0 {None Rejected} other{# Rejected}}</source>
+                <target xml:lang="pt_PT">{numberOfRejected, plural, =0 {None Rejected} other{# Rejected}}</target>
+            </trans-unit>
+            <trans-unit id="9ebfeea2be338adb16c93ddb21ceced0" resname="repositories.table.row.done">
+                <source xml:lang="en">Done</source>
+                <target xml:lang="pt_PT">Done</target>
+            </trans-unit>
+            <trans-unit id="27f7d50531c78df76e58bab765ded171" resname="repositories.localeStats.close">
+                <source xml:lang="en">Close</source>
+                <target xml:lang="pt_PT">Close</target>
+            </trans-unit>
+            <trans-unit id="2e9799b981e321ac4966c01897398eb2" resname="search.placeholder">
+                <source xml:lang="en">Search term...</source>
+                <target xml:lang="pt_PT">Search term...</target>
+            </trans-unit>
+            <trans-unit id="a1d2e51636a16ff21536147f6b7b18f6" resname="search.filter.id">
+                <source xml:lang="en">Id</source>
+                <target xml:lang="pt_PT">Id</target>
+            </trans-unit>
+            <trans-unit id="d4f23966c034a1a65be1f0149e6ebe06" resname="search.filter.source">
+                <source xml:lang="en">Source</source>
+                <target xml:lang="pt_PT">Source</target>
+            </trans-unit>
+            <trans-unit id="dad9fc745dae816c64b3438a73a0524e" resname="search.filter.target">
+                <source xml:lang="en">Target</source>
+                <target xml:lang="pt_PT">Target</target>
+            </trans-unit>
+            <trans-unit id="2048304935f28801ad9dfbe16e5d3ae0" resname="search.filter.exact">
+                <source xml:lang="en">Exact</source>
+                <target xml:lang="pt_PT">Exact</target>
+            </trans-unit>
+            <trans-unit id="5f48eb3ef3234e38c02672a5188d1753" resname="search.filter.contains">
+                <source xml:lang="en">Contains</source>
+                <target xml:lang="pt_PT">Contains</target>
+            </trans-unit>
+            <trans-unit id="b0106eb35092730c0fbdaa3543750e96" resname="search.filter.ilike">
+                <source xml:lang="en">ILike</source>
+                <target xml:lang="pt_PT">ILike</target>
+            </trans-unit>
+            <trans-unit id="11e146e2c2f9121fea81aea583d670c2" resname="search.filter.searchAttribute">
+                <source xml:lang="en">Attribute</source>
+                <target xml:lang="pt_PT">Attribute</target>
+            </trans-unit>
+            <trans-unit id="739f35ff2d7e20437323f07d8f73f869" resname="search.filter.searchType">
+                <source xml:lang="en">Type</source>
+                <target xml:lang="pt_PT">Type</target>
+            </trans-unit>
+            <trans-unit id="c7662e78c9249df19801ce7d48c58e85" resname="search.statusDropdown.title">
+                <source xml:lang="en">Filter by</source>
+                <target xml:lang="pt_PT">Filter by</target>
+            </trans-unit>
+            <trans-unit id="76cadc54ffc59f7bcf3d88cc218545ce" resname="search.statusDropdown.used">
+                <source xml:lang="en">Used</source>
+                <target xml:lang="pt_PT">Used</target>
+            </trans-unit>
+            <trans-unit id="0a48b37e810e705e7757056280951372" resname="search.statusDropdown.status">
+                <source xml:lang="en">Status</source>
+                <target xml:lang="pt_PT">Status</target>
+            </trans-unit>
+            <trans-unit id="f6d538a7632e75e3c8a1eecdd92a060a" resname="search.statusDropdown.all">
+                <source xml:lang="en">All</source>
+                <target xml:lang="pt_PT">All</target>
+            </trans-unit>
+            <trans-unit id="669084ff932f436af35148886619cbb4" resname="search.statusDropdown.translated">
+                <source xml:lang="en">Translated</source>
+                <target xml:lang="pt_PT">Translated</target>
+            </trans-unit>
+            <trans-unit id="2f0fedbcc5615b4b781f71d7b3968427" resname="search.statusDropdown.needsReview">
+                <source xml:lang="en">Needs Review</source>
+                <target xml:lang="pt_PT">Needs Review</target>
+            </trans-unit>
+            <trans-unit id="882b3831187d7ec77a0a9ad5cea496bd" resname="search.statusDropdown.forTranslation">
+                <source xml:lang="en">Needs Translation</source>
+                <target xml:lang="pt_PT">Needs Translation</target>
+            </trans-unit>
+            <trans-unit id="2c41b8116a285470304af3e591a11a56" resname="search.statusDropdown.rejected">
+                <source xml:lang="en">Rejected</source>
+                <target xml:lang="pt_PT">Rejected</target>
+            </trans-unit>
+            <trans-unit id="abd01db19e0eed3d3687b84cb1688614" resname="search.statusDropdown.yes">
+                <source xml:lang="en">Yes</source>
+                <target xml:lang="pt_PT">Yes</target>
+            </trans-unit>
+            <trans-unit id="254c7bdbdc9c2b82c789817af286ec12" resname="search.statusDropdown.no">
+                <source xml:lang="en">No</source>
+                <target xml:lang="pt_PT">No</target>
+            </trans-unit>
+            <trans-unit id="fe5a6bff90852e898bdd367accaa3adc" resname="search.pagination.isLoading">
+                <source xml:lang="en">Loading...</source>
+                <target xml:lang="pt_PT">Loading...</target>
+            </trans-unit>
+            <trans-unit id="13f2f400a89595778cf8e3614ebbc907" resname="search.result.empty">
+                <source xml:lang="en">There are no results. Update your search parameter to find what you're looking for!</source>
+                <target xml:lang="pt_PT">There are no results. Update your search parameter to find what you're looking for!</target>
+            </trans-unit>
+            <trans-unit id="3be78530b2cf50a3c10168be701719b4" resname="search.result.selectRepoAndLocale">
+                <source xml:lang="en">Select at least one repository and locale before you can search.</source>
+                <target xml:lang="pt_PT">Select at least one repository and locale before you can search.</target>
+            </trans-unit>
+            <trans-unit id="7a462b387a65e0cc887b0303bcd202a6" resname="header.loggedInUser.profile">
+                <source xml:lang="en">My Profile</source>
+                <target xml:lang="pt_PT">My Profile</target>
+            </trans-unit>
+            <trans-unit id="13a115e702b4b86ca8e930779ff9b39c" resname="header.loggedInUser.preferences">
+                <source xml:lang="en">My Preferences</source>
+                <target xml:lang="pt_PT">My Preferences</target>
+            </trans-unit>
+            <trans-unit id="7ffd849d8c305bd87f1f47a75a030108" resname="header.loggedInUser.logout">
+                <source xml:lang="en">Logout</source>
+                <target xml:lang="pt_PT">Logout</target>
+            </trans-unit>
+            <trans-unit id="14a401c773fe2fef39783ab6818d2930" resname="label.save">
+                <source xml:lang="en">Save</source>
+                <target xml:lang="pt_PT">Save</target>
+            </trans-unit>
+            <trans-unit id="3d9f7a2d49f83df954d2e71f510dacfd" resname="label.yes">
+                <source xml:lang="en">Yes</source>
+                <target xml:lang="pt_PT">Yes</target>
+            </trans-unit>
+            <trans-unit id="972c7461536db21949e47a701a037598" resname="label.no">
+                <source xml:lang="en">No</source>
+                <target xml:lang="pt_PT">No</target>
+            </trans-unit>
+            <trans-unit id="f3f4edb53b51229b6556618476c8fd5c" resname="label.delete">
+                <source xml:lang="en">Delete</source>
+                <target xml:lang="pt_PT">Delete</target>
+            </trans-unit>
+            <trans-unit id="2fdea6b7c16fb81dc680510d695992c2" resname="label.cancel">
+                <source xml:lang="en">Cancel</source>
+                <target xml:lang="pt_PT">Cancel</target>
+            </trans-unit>
+            <trans-unit id="1fba78760ecf2061131d4555f66213da" resname="label.okay">
+                <source xml:lang="en">Okay</source>
+                <target xml:lang="pt_PT">Okay</target>
+            </trans-unit>
+            <trans-unit id="c3c265a54e4b14a29526e619ce55d2a6" resname="textUnit.target.placeholder">
+                <source xml:lang="en">Enter new translation</source>
+                <target xml:lang="pt_PT">Enter new translation</target>
+            </trans-unit>
+            <trans-unit id="065501b7b41252a327c482deb633c9cc" resname="textUnit.unused">
+                <source xml:lang="en">Unused</source>
+                <target xml:lang="pt_PT">Unused</target>
+            </trans-unit>
+            <trans-unit id="0d4a4df0471049aff05ab19c7b900778" resname="textUnit.notIncludedInLocalizedFile">
+                <source xml:lang="en">Not included in localized file</source>
+                <target xml:lang="pt_PT">Not included in localized file</target>
+            </trans-unit>
+            <trans-unit id="20631433c8913611ce26b0aa83c7af74" resname="textUnit.target.enterNewTranslation">
+                <source xml:lang="en">Enter new translation</source>
+                <target xml:lang="pt_PT">Enter new translation</target>
+            </trans-unit>
+            <trans-unit id="ffef3c1b7eefa650050cd9fee5592929" resname="workbench.toolbar.status">
+                <source xml:lang="en">Status</source>
+                <target xml:lang="pt_PT">Status</target>
+            </trans-unit>
+            <trans-unit id="a812221ccb448551b0638da24efa3118" resname="workbench.toolbar.numberOfSelectedTextUnits">
+                <source xml:lang="en">{numberOfSelectedTextUnits, plural, =0 {None selected} other{# selected}}</source>
+                <target xml:lang="pt_PT">{numberOfSelectedTextUnits, plural, =0 {None selected} other{# selected}}</target>
+            </trans-unit>
+            <trans-unit id="463eca74bd88ebeabc78b87abc24e2a0" resname="workbench.toolbar.selectAllInPage">
+                <source xml:lang="en">Select all in page</source>
+                <target xml:lang="pt_PT">Select all in page</target>
+            </trans-unit>
+            <trans-unit id="6302d9093654ed31f06cf8caf27fb49c" resname="workbench.toolbar.clearAllInPage">
+                <source xml:lang="en">Clear all in page</source>
+                <target xml:lang="pt_PT">Clear all in page</target>
+            </trans-unit>
+            <trans-unit id="c7129cc3ee196f52dcb91e08a53dfb2d" resname="workbench.toolbar.clearAll">
+                <source xml:lang="en">Clear all</source>
+                <target xml:lang="pt_PT">Clear all</target>
+            </trans-unit>
+            <trans-unit id="56d0d63cef32f7fa463a6aef91ef7d77" resname="textUnit.reviewModal.rejected">
+                <source xml:lang="en">Rejected</source>
+                <target xml:lang="pt_PT">Rejected</target>
+            </trans-unit>
+            <trans-unit id="701c6008db1f5f3c2bfe26993aaf713c" resname="textUnit.reviewModal.accepted">
+                <source xml:lang="en">Accepted</source>
+                <target xml:lang="pt_PT">Accepted</target>
+            </trans-unit>
+            <trans-unit id="666d5f63632027951ca5e5840cad26f7" resname="textUnit.reviewModal.needsReview">
+                <source xml:lang="en">Needs Review</source>
+                <target xml:lang="pt_PT">Needs Review</target>
+            </trans-unit>
+            <trans-unit id="1d46a4fdcd936af5fdc8b0b74d9937a7" resname="textUnit.reviewModal.translationNeeded">
+                <source xml:lang="en">Needs Translation</source>
+                <target xml:lang="pt_PT">Needs Translation</target>
+            </trans-unit>
+            <trans-unit id="486229c6043e5658f40d6fe437d969c9" resname="textUnit.reviewModal.title">
+                <source xml:lang="en">Review selected translations</source>
+                <target xml:lang="pt_PT">Review selected translations</target>
+            </trans-unit>
+            <trans-unit id="1c26f31b7af3c5ab3476a45e4131bb29" resname="textUnit.reviewModal.commentLabel">
+                <source xml:lang="en">Comment</source>
+                <target xml:lang="pt_PT">Comment</target>
+            </trans-unit>
+            <trans-unit id="81ebe83c53a35df092982be048a36997" resname="textUnit.reviewModal.commentPlaceholder">
+                <source xml:lang="en">Enter comment</source>
+                <target xml:lang="pt_PT">Enter comment</target>
+            </trans-unit>
+            <trans-unit id="2fdb5162a7f283ec51d82c74c837b7f8" resname="textUnit.deletemodal.title">
+                <source xml:lang="en">Confirm delete</source>
+                <target xml:lang="pt_PT">Confirm delete</target>
+            </trans-unit>
+            <trans-unit id="bc8d0bc9b15651d9ceba0061579f3dab" resname="textUnits.bulk.deleteMessage">
+                <source xml:lang="en">Are you sure you want to delete the selected text units?</source>
+                <target xml:lang="pt_PT">Are you sure you want to delete the selected text units?</target>
+            </trans-unit>
+            <trans-unit id="04cbb5bb1cba9524d41e2c045538c319" resname="textUnit.save.failed">
+                <source xml:lang="en">There was an error saving the translation.  Please try again later.</source>
+                <target xml:lang="pt_PT">There was an error saving the translation.  Please try again later.</target>
+            </trans-unit>
+            <trans-unit id="0018c86b560214c00453647e0f8364ad" resname="textUnit.check.failed">
+                <source xml:lang="en">Your translation failed the integrity check.  Some placeholders may not be in the correct place and the format may not be correct.  Are you sure you want to save anyways?</source>
+                <target xml:lang="pt_PT">Your translation failed the integrity check.  Some placeholders may not be in the correct place and the format may not be correct.  Are you sure you want to save anyways?</target>
+            </trans-unit>
+            <trans-unit id="7656c462cda1f8bad4f3fba223038a95" resname="textUnit.checkandsave.failed">
+                <source xml:lang="en">There was an error checking and saving the translation.</source>
+                <target xml:lang="pt_PT">There was an error checking and saving the translation.</target>
+            </trans-unit>
+            <trans-unit id="59f130f232f494b2bd61e78f92328eb0" resname="textUnit.delete.failed">
+                <source xml:lang="en">There was an error deleting the translation.</source>
+                <target xml:lang="pt_PT">There was an error deleting the translation.</target>
+            </trans-unit>
+            <trans-unit id="716b4e596055920a228c3c633ee8ce52" resname="textUnit.cancel.confirmation">
+                <source xml:lang="en">Are you sure you want to cancel editing? You will lose the changes you've made.</source>
+                <target xml:lang="pt_PT">Are you sure you want to cancel editing? You will lose the changes you've made.</target>
+            </trans-unit>
+            <trans-unit id="be091400498baa394c7d7224641edf9d" resname="search.repository.btn.text">
+                <source xml:lang="en">{numberOfSelectedRepositories, plural, =0{Repositories} =1{1 repository} other{# repositories}}</source>
+                <target xml:lang="pt_PT">{numberOfSelectedRepositories, plural, =0{Repositories} =1{1 repository} other{# repositories}}</target>
+            </trans-unit>
+            <trans-unit id="53e2e6bfd383cf395e604d5ed1678184" resname="search.repository.selectAll">
+                <source xml:lang="en">All</source>
+                <target xml:lang="pt_PT">All</target>
+            </trans-unit>
+            <trans-unit id="ff9793ff427d010b62d22cd4b5011df7" resname="search.repository.selectNone">
+                <source xml:lang="en">None</source>
+                <target xml:lang="pt_PT">None</target>
+            </trans-unit>
+            <trans-unit id="5ab65ff0636e18e69a78b505dc7365cd" resname="search.locale.btn.text">
+                <source xml:lang="en">{numberOfSelectedLocales, plural, =0{Locales} =1{1 locale} other{# locales}}</source>
+                <target xml:lang="pt_PT">{numberOfSelectedLocales, plural, =0{Locales} =1{1 locale} other{# locales}}</target>
+            </trans-unit>
+            <trans-unit id="4934ae939c4416f80ca37d7185f9fb5b" resname="search.locale.selectAll">
+                <source xml:lang="en">All</source>
+                <target xml:lang="pt_PT">All</target>
+            </trans-unit>
+            <trans-unit id="48aea1b5a11e518989bd203c83da36b3" resname="search.locale.selectNone">
+                <source xml:lang="en">None</source>
+                <target xml:lang="pt_PT">None</target>
+            </trans-unit>
+            <trans-unit id="b7222af91ad8a640fdc96337c168e4c4" resname="search.locale.selectToBeFullyTranslated">
+                <source xml:lang="en">To be fully translated</source>
+                <target xml:lang="pt_PT">To be fully translated</target>
+            </trans-unit>
+            <trans-unit id="30ca374c4e7897c2a6455ccc35783ca3" resname="search.query.failed">
+                <source xml:lang="en">There was an error querying the server</source>
+                <target xml:lang="pt_PT">There was an error querying the server</target>
+            </trans-unit>
+            <trans-unit id="68b8fcb9cdfe076d238b58351f4c22d1" resname="login.form.logout">
+                <source xml:lang="en">You have been logged out.</source>
+                <target xml:lang="pt_PT">You have been logged out.</target>
+            </trans-unit>
+            <trans-unit id="79ed96bfe7c24fa9a768397ed176124c" resname="login.form.error">
+                <source xml:lang="en">Invalid username and password.</source>
+                <target xml:lang="pt_PT">Invalid username and password.</target>
+            </trans-unit>
+            <trans-unit id="157cb17124f5d7e6f0b658eb4e1bfdd4" resname="login.form.title">
+                <source xml:lang="en">Welcome back, please log in.</source>
+                <target xml:lang="pt_PT">Welcome back, please log in.</target>
+            </trans-unit>
+            <trans-unit id="a5820f69fd5f968a7d960c769c9ab24d" resname="login.form.login">
+                <source xml:lang="en">Log in</source>
+                <target xml:lang="pt_PT">Log in</target>
+            </trans-unit>
+            <trans-unit id="7a08ee26d512dad30a3050720c8171bc" resname="login.form.username">
+                <source xml:lang="en">username</source>
+                <target xml:lang="pt_PT">username</target>
+            </trans-unit>
+            <trans-unit id="997a06b3d218fb34079e0ed4fb393078" resname="login.form.password">
+                <source xml:lang="en">password</source>
+                <target xml:lang="pt_PT">password</target>
+            </trans-unit>
+            <trans-unit id="125399d32f18a103af8cc1b428fae350" resname="error.modal.title">
+                <source xml:lang="en">That caused an error</source>
+                <target xml:lang="pt_PT">That caused an error</target>
+            </trans-unit>
+            <trans-unit id="a70072c31aa44d673d4b7897b1a43c6f" resname="modal.title">
+                <source xml:lang="en">Oops</source>
+                <target xml:lang="pt_PT">Oops</target>
+            </trans-unit>
+            <trans-unit id="93b3b7aa8b2ed7c4489fe47c857e7eda" resname="localeselector.title">
+                <source xml:lang="en">Select Mojito locale</source>
+                <target xml:lang="pt_PT">Select Mojito locale</target>
+            </trans-unit>
+            <trans-unit id="9d1167a2c2a3d49e6cb0a5b76e791628" resname="drops.newRequest.btn">
+                <source xml:lang="en">New Request</source>
+                <target xml:lang="pt_PT">New Request</target>
+            </trans-unit>
+            <trans-unit id="1daaa31ed5d97d295f65715a5dc89d39" resname="drops.tableHeader.name">
+                <source xml:lang="en">Name</source>
+                <target xml:lang="pt_PT">Name</target>
+            </trans-unit>
+            <trans-unit id="0e8bae0df2bb499a92c3816d34f558a5" resname="drops.tableHeader.wordCount">
+                <source xml:lang="en">Words</source>
+                <target xml:lang="pt_PT">Words</target>
+            </trans-unit>
+            <trans-unit id="4606635b78e3a5112296504672cf0dd7" resname="drops.tableHeader.locales">
+                <source xml:lang="en">Locales</source>
+                <target xml:lang="pt_PT">Locales</target>
+            </trans-unit>
+            <trans-unit id="f40b044e5343f958e9f28cef494e85a5" resname="drops.tableHeader.createdBy">
+                <source xml:lang="en">Created By</source>
+                <target xml:lang="pt_PT">Created By</target>
+            </trans-unit>
+            <trans-unit id="5932b1031c888963b9080013cf644231" resname="drops.tableHeader.createdDate">
+                <source xml:lang="en">Created Date</source>
+                <target xml:lang="pt_PT">Created Date</target>
+            </trans-unit>
+            <trans-unit id="424c691e141c5aa7e2f6828c68d4529b" resname="drops.tableHeader.repository">
+                <source xml:lang="en">Repository</source>
+                <target xml:lang="pt_PT">Repository</target>
+            </trans-unit>
+            <trans-unit id="c01f61526a827fa4d66d169877603912" resname="drops.tableHeader.status">
+                <source xml:lang="en">Status</source>
+                <target xml:lang="pt_PT">Status</target>
+            </trans-unit>
+            <trans-unit id="92e3d532ed357a873e9caf1207c9a76c" resname="drops.newRequestModal.title">
+                <source xml:lang="en">Select a Repository to Create a Request</source>
+                <target xml:lang="pt_PT">Select a Repository to Create a Request</target>
+            </trans-unit>
+            <trans-unit id="5377b7e8405fcb7cf0bfe3f396f03b6f" resname="drops.newRequestModal.createRequest">
+                <source xml:lang="en">Create Request</source>
+                <target xml:lang="pt_PT">Create Request</target>
+            </trans-unit>
+            <trans-unit id="c3fb7b3cda31e5df45ba9325b1f56a33" resname="drops.newRequestModal.requestTranslation">
+                <source xml:lang="en">Request Translation</source>
+                <target xml:lang="pt_PT">Request Translation</target>
+            </trans-unit>
+            <trans-unit id="15098011669d0ab09e0366ac5a929969" resname="drops.newRequestModal.requestReview">
+                <source xml:lang="en">Request Review</source>
+                <target xml:lang="pt_PT">Request Review</target>
+            </trans-unit>
+            <trans-unit id="57f0e0fd642b9cba1c8aa69d64ec5d87" resname="drops.status.canceled">
+                <source xml:lang="en">Canceled</source>
+                <target xml:lang="pt_PT">Canceled</target>
+            </trans-unit>
+            <trans-unit id="4de41ef346ed5f6dfe0d3bea817b37a8" resname="drops.status.exportFailed">
+                <source xml:lang="en">Export Failed</source>
+                <target xml:lang="pt_PT">Export Failed</target>
+            </trans-unit>
+            <trans-unit id="6d9bd15bf5ca354cf71b072407f45642" resname="drops.status.importFailed">
+                <source xml:lang="en">Import Failed</source>
+                <target xml:lang="pt_PT">Import Failed</target>
+            </trans-unit>
+            <trans-unit id="8e92347e38d534f1266238a09a643ad3" resname="drops.status.imported">
+                <source xml:lang="en">Imported</source>
+                <target xml:lang="pt_PT">Imported</target>
+            </trans-unit>
+            <trans-unit id="2cbc8b5bdff49967010db761d769c68a" resname="drops.status.importing">
+                <source xml:lang="en">Importing</source>
+                <target xml:lang="pt_PT">Importing</target>
+            </trans-unit>
+            <trans-unit id="2cd7f11cbcb82f4fb9bbef31bbe3a5a5" resname="drops.status.sending">
+                <source xml:lang="en">Sending</source>
+                <target xml:lang="pt_PT">Sending</target>
+            </trans-unit>
+            <trans-unit id="d65a68ed4aa6fef2e38b25096dd2c9ea" resname="drops.status.inTranslation">
+                <source xml:lang="en">In Translation</source>
+                <target xml:lang="pt_PT">In Translation</target>
+            </trans-unit>
+            <trans-unit id="d1e49040faeeacf58f33e5f8317b1480" resname="drops.status.inReview">
+                <source xml:lang="en">In Review</source>
+                <target xml:lang="pt_PT">In Review</target>
+            </trans-unit>
+            <trans-unit id="73706edb3ef6e9dcf06964164cc116ad" resname="drops.controlbar.button.tooltip.import">
+                <source xml:lang="en">Import Request</source>
+                <target xml:lang="pt_PT">Import Request</target>
+            </trans-unit>
+            <trans-unit id="26d8f15b5e9b113f2cdf59b7dc95188a" resname="drops.controlbar.button.tooltip.cancel">
+                <source xml:lang="en">Cancel Request</source>
+                <target xml:lang="pt_PT">Cancel Request</target>
+            </trans-unit>
+            <trans-unit id="7a42d4d51789a01e9d0ae9d351c14136" resname="drops.inProgress">
+                <source xml:lang="en">In Progress</source>
+                <target xml:lang="pt_PT">In Progress</target>
+            </trans-unit>
+            <trans-unit id="fa2dba73f1c027aea2345d9b4e62096c" resname="drops.completed">
+                <source xml:lang="en">Completed</source>
+                <target xml:lang="pt_PT">Completed</target>
+            </trans-unit>
+            <trans-unit id="24238324096bc43a6294d3ea35bceffe" resname="drops.all">
+                <source xml:lang="en">All</source>
+                <target xml:lang="pt_PT">All</target>
+            </trans-unit>
+            <trans-unit id="e2399c808ca5f888d879b8b170f437b1" resname="drops.newTranslationRequest.alert">
+                <source xml:lang="en">New Translation Request is being sent</source>
+                <target xml:lang="pt_PT">New Translation Request is being sent</target>
+            </trans-unit>
+            <trans-unit id="9aa50cd0ccb9ebf65b5b5cddab866dc4" resname="drops.newReviewRequest.alert">
+                <source xml:lang="en">New Review Request is being sent</source>
+                <target xml:lang="pt_PT">New Review Request is being sent</target>
+            </trans-unit>
+            <trans-unit id="c8a940af8a76ba6b728123716dfb8e35" resname="drops.beingImported.alert">
+                <source xml:lang="en">Request is being imported</source>
+                <target xml:lang="pt_PT">Request is being imported</target>
+            </trans-unit>
+            <trans-unit id="ba515000ac1dbb0f27fb6c4bc974bace" resname="drops.beingCanceled.alert">
+                <source xml:lang="en">Request is being canceled</source>
+                <target xml:lang="pt_PT">Request is being canceled</target>
+            </trans-unit>
+            <trans-unit id="e0fd57b245b1778dc1d7c316d3db4746" resname="settings.box.clientId">
+                <source xml:lang="en">Client Id</source>
+                <target xml:lang="pt_PT">Client Id</target>
+            </trans-unit>
+            <trans-unit id="8140fe250edc17fa748a4b2bb1462b06" resname="settings.box.clientSecret">
+                <source xml:lang="en">Client Secret</source>
+                <target xml:lang="pt_PT">Client Secret</target>
+            </trans-unit>
+            <trans-unit id="889123f8da60100ab5eecbcfbeff8646" resname="settings.box.publicKeyId">
+                <source xml:lang="en">Public Key Id</source>
+                <target xml:lang="pt_PT">Public Key Id</target>
+            </trans-unit>
+            <trans-unit id="a1996ddee3da2a681dd70bb20658d341" resname="settings.box.privateKey">
+                <source xml:lang="en">Private Key</source>
+                <target xml:lang="pt_PT">Private Key</target>
+            </trans-unit>
+            <trans-unit id="4eea3464853d714f19a13adcb420ebaa" resname="settings.box.privateKeyPassword">
+                <source xml:lang="en">Private Key Password</source>
+                <target xml:lang="pt_PT">Private Key Password</target>
+            </trans-unit>
+            <trans-unit id="9d207bbe18630e7d983d2976b8d9d8c2" resname="settings.box.enterpriseId">
+                <source xml:lang="en">Enterprise Id</source>
+                <target xml:lang="pt_PT">Enterprise Id</target>
+            </trans-unit>
+            <trans-unit id="2842b4f27cbf2c8dbeb94791795c2053" resname="settings.box.appUserId">
+                <source xml:lang="en">App User Id</source>
+                <target xml:lang="pt_PT">App User Id</target>
+            </trans-unit>
+            <trans-unit id="31e00ea5f9c27638d0d99f0830258983" resname="settings.box.rootFolderId">
+                <source xml:lang="en">Root Folder Id</source>
+                <target xml:lang="pt_PT">Root Folder Id</target>
+            </trans-unit>
+            <trans-unit id="75245de208794de5da9ae5bcfb8ce149" resname="settings.box.dropsFolderId">
+                <source xml:lang="en">Project Requests Folder Id</source>
+                <target xml:lang="pt_PT">Project Requests Folder Id</target>
+            </trans-unit>
+            <trans-unit id="7e5fe4b85dfcafe53cf6d41b1e460626" resname="settings.box.bootstrap">
+                <source xml:lang="en">Bootstrap</source>
+                <target xml:lang="pt_PT">Bootstrap</target>
+            </trans-unit>
+            <trans-unit id="6f2cef1a82511c286a0bbd54a2202c75" resname="settings.box.validated">
+                <source xml:lang="en">Validated</source>
+                <target xml:lang="pt_PT">Validated</target>
+            </trans-unit>
+            <trans-unit id="fc8088f5a7e048f249e865ec9d39c3e9" resname="settings.box.rootFolderUrl">
+                <source xml:lang="en">Root Folder Url</source>
+                <target xml:lang="pt_PT">Root Folder Url</target>
+            </trans-unit>
+            <trans-unit id="6fbcf37ed3c50fdaa5f75b92fbf03bf3" resname="settings.box.yes">
+                <source xml:lang="en">Yes</source>
+                <target xml:lang="pt_PT">Yes</target>
+            </trans-unit>
+            <trans-unit id="a56f945ca952ee84c36a88f57cdbf5a0" resname="settings.box.no">
+                <source xml:lang="en">No</source>
+                <target xml:lang="pt_PT">No</target>
+            </trans-unit>
+            <trans-unit id="40444d22fce4b6168a20991e5a39dcdb" resname="settings.button.saveWithBoostrapping">
+                <source xml:lang="en">Save With Bootstrapping</source>
+                <target xml:lang="pt_PT">Save With Bootstrapping</target>
+            </trans-unit>
+            <trans-unit id="a733e336c5fe78472f33b58d0335f127" resname="settings.button.edit">
+                <source xml:lang="en">Edit</source>
+                <target xml:lang="pt_PT">Edit</target>
+            </trans-unit>
+            <trans-unit id="92687775f6a0a32a280ac21d9e17db58" resname="settings.button.cancel">
+                <source xml:lang="en">Cancel</source>
+                <target xml:lang="pt_PT">Cancel</target>
+            </trans-unit>
+            <trans-unit id="5315a4dbb90c83a67d5fdff7e1010142" resname="settings.button.saveWithoutBootstrapping">
+                <source xml:lang="en">Save Without Bootstrapping</source>
+                <target xml:lang="pt_PT">Save Without Bootstrapping</target>
+            </trans-unit>
+            <trans-unit id="6c29ac73b382d07228298ccb0b957c56" resname="settings.label.saveWithoutBootstrap">
+                <source xml:lang="en">Click here to add extra fields and skip bootstrapping</source>
+                <target xml:lang="pt_PT">Click here to add extra fields and skip bootstrapping</target>
+            </trans-unit>
+            <trans-unit id="e0834205fea7ff1dcf438c3f214c4423" resname="settings.label.saveWithoutBootstrapInstructions">
+                <source xml:lang="en">Fill in ALL of the following fields to save without bootstrapping</source>
+                <target xml:lang="pt_PT">Fill in ALL of the following fields to save without bootstrapping</target>
+            </trans-unit>
+            <trans-unit id="3a9b5236dc2cc0b272120f1998d11e44" resname="settings.label.saveWithoutBootstrapInstructions.tooltip">
+                <source xml:lang="en">You don't need to bootstrap if Mojito has already set up the folder structures from previous Mojito installs.  Bootstraping allows Mojito to set up the App User and Box folder structures in preparation for project requests, and other features</source>
+                <target xml:lang="pt_PT">You don't need to bootstrap if Mojito has already set up the folder structures from previous Mojito installs.  Bootstraping allows Mojito to set up the App User and Box folder structures in preparation for project requests, and other features</target>
+            </trans-unit>
+            <trans-unit id="c40bda6184b2a6ef9f1bb6122c1d254e" resname="settings.modal.title.pleaseWait">
+                <source xml:lang="en">Please Wait</source>
+                <target xml:lang="pt_PT">Please Wait</target>
+            </trans-unit>
+            <trans-unit id="ded1976b4ac246ab31df3d9d6cc59a2c" resname="settings.modal.box.message">
+                <source xml:lang="en">API Configurations is being set up</source>
+                <target xml:lang="pt_PT">API Configurations is being set up</target>
+            </trans-unit>
+            <trans-unit id="23ee71d49811cdb8fa1cb73fb828ed27" resname="settings.message.waitingForInfo">
+                <source xml:lang="en">Retrieving Information.  Please wait.</source>
+                <target xml:lang="pt_PT">Retrieving Information.  Please wait.</target>
+            </trans-unit>
+            <trans-unit id="b21e365ef37e9f7b377b3ee068aecd2f" resname="settings.message.notAvailableYet">
+                <source xml:lang="en">Not Available Yet</source>
+                <target xml:lang="pt_PT">Not Available Yet</target>
+            </trans-unit>
+            <trans-unit id="af063c6a3a22b0b0a1a6d8310f778f3f" resname="settings.box.validating">
+                <source xml:lang="en">Validating</source>
+                <target xml:lang="pt_PT">Validating</target>
+            </trans-unit>
+            <trans-unit id="52a2d67148cb6cd047231eebcc53d724" resname="error.modal.header.title">
+                <source xml:lang="en">Oops</source>
+                <target xml:lang="pt_PT">Oops</target>
+            </trans-unit>
+            <trans-unit id="cad091f986eace7b3b76a88df0ad8c8b" resname="error.modal.message.loggedOut">
+                <source xml:lang="en">Session expired.  Please re-authenticate.</source>
+                <target xml:lang="pt_PT">Session expired.  Please re-authenticate.</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
