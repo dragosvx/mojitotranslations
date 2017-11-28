@@ -31,18 +31,15 @@
          {
              "smartling" : "pt-PT",
              "application" : "pt-pt"
-         },		
-         {
-             "smartling" : "pt-PT",
-             "application" : "pt-pt"
          }
      ],
 
      "resourceSets": [
          {
             "type"                      : "xliff",
-            "pathRegex"                 : "mojito\\/.*\\.xliff",
-			"translationCommitMessage"  : "Translate ${originalFile.fullName} to ${locale}" 
+            "pathRegex"                 : "en-us/mojitoen.xliff",
+   	    "translationPathExpression" : "${locale}/mojitoen.xliff",
+	    "translationCommitMessage"  : "Translate ${originalFile.fullName} to ${locale}" 
          }
      ]
 }
