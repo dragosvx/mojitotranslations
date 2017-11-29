@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
     <file datatype="javapropertyresourcebundle" original="en.properties" source-language="en" target-language="it">
         <body>
@@ -135,8 +135,8 @@
                 <target xml:lang="it">Loading...</target>
             </trans-unit>
             <trans-unit id="13f2f400a89595778cf8e3614ebbc907" resname="search.result.empty">
-                <source xml:lang="en">There are no results. Update your search parameter to find what you're looking for!</source>
-                <target xml:lang="it">There are no results. Update your search parameter to find what you're looking for!</target>
+                <source xml:lang="en">There are no results. Update your search parameter to find what you&apos;re looking for!</source>
+                <target xml:lang="it">There are no results. Update your search parameter to find what you&apos;re looking for!</target>
             </trans-unit>
             <trans-unit id="3be78530b2cf50a3c10168be701719b4" resname="search.result.selectRepoAndLocale">
                 <source xml:lang="en">Select at least one repository and locale before you can search.</source>
@@ -267,8 +267,8 @@
                 <target xml:lang="it">There was an error deleting the translation.</target>
             </trans-unit>
             <trans-unit id="716b4e596055920a228c3c633ee8ce52" resname="textUnit.cancel.confirmation">
-                <source xml:lang="en">Are you sure you want to cancel editing? You will lose the changes you've made.</source>
-                <target xml:lang="it">Are you sure you want to cancel editing? You will lose the changes you've made.</target>
+                <source xml:lang="en">Are you sure you want to cancel editing? You will lose the changes you&apos;ve made.</source>
+                <target xml:lang="it">Are you sure you want to cancel editing? You will lose the changes you&apos;ve made.</target>
             </trans-unit>
             <trans-unit id="be091400498baa394c7d7224641edf9d" resname="search.repository.btn.text">
                 <source xml:lang="en">{numberOfSelectedRepositories, plural, =0{Repositories} =1{1 repository} other{# repositories}}</source>
@@ -535,8 +535,8 @@
                 <target xml:lang="it">Fill in ALL of the following fields to save without bootstrapping</target>
             </trans-unit>
             <trans-unit id="3a9b5236dc2cc0b272120f1998d11e44" resname="settings.label.saveWithoutBootstrapInstructions.tooltip">
-                <source xml:lang="en">You don't need to bootstrap if Mojito has already set up the folder structures from previous Mojito installs.  Bootstraping allows Mojito to set up the App User and Box folder structures in preparation for project requests, and other features</source>
-                <target xml:lang="it">You don't need to bootstrap if Mojito has already set up the folder structures from previous Mojito installs.  Bootstraping allows Mojito to set up the App User and Box folder structures in preparation for project requests, and other features</target>
+                <source xml:lang="en">You don&apos;t need to bootstrap if Mojito has already set up the folder structures from previous Mojito installs.  Bootstraping allows Mojito to set up the App User and Box folder structures in preparation for project requests, and other features</source>
+                <target xml:lang="it">You don&apos;t need to bootstrap if Mojito has already set up the folder structures from previous Mojito installs.  Bootstraping allows Mojito to set up the App User and Box folder structures in preparation for project requests, and other features</target>
             </trans-unit>
             <trans-unit id="c40bda6184b2a6ef9f1bb6122c1d254e" resname="settings.modal.title.pleaseWait">
                 <source xml:lang="en">Please Wait</source>

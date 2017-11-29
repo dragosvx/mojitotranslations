@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
     <file datatype="javapropertyresourcebundle" original="en.properties" source-language="en" target-language="es">
         <body>
@@ -8,15 +8,15 @@
             </trans-unit>
             <trans-unit id="e3cfee00a9316e94906d79bebbb3918a" resname="header.repositories">
                 <source xml:lang="en">Repositories</source>
-                <target xml:lang="es">Repositorios</target>
+                <target xml:lang="es">Repositories</target>
             </trans-unit>
             <trans-unit id="7fc50498661cfc74f49f422b0bd6fb94" resname="header.projectRequests">
                 <source xml:lang="en">Project Requests</source>
-                <target xml:lang="es">Solicitudes de proyectos</target>
+                <target xml:lang="es">Project Requests</target>
             </trans-unit>
             <trans-unit id="862942ca110846c5474de6507133e657" resname="header.settings">
                 <source xml:lang="en">Settings</source>
-                <target xml:lang="es">Configuración</target>
+                <target xml:lang="es">Settings</target>
             </trans-unit>
             <trans-unit id="5cb88cee2f5ddd825afcc02dedb8e2a9" resname="repositories.table.header.name">
                 <source xml:lang="en">Name</source>
@@ -24,7 +24,7 @@
             </trans-unit>
             <trans-unit id="2bef0796eb67556483631ca738a3d8ea" resname="repositories.table.header.description">
                 <source xml:lang="en">Description</source>
-                <target xml:lang="es">Descripción</target>
+                <target xml:lang="es">Description</target>
             </trans-unit>
             <trans-unit id="5afc1134b8688c3134e3a79b894f4f2d" resname="repositories.table.header.rejected">
                 <source xml:lang="en">Rejected</source>
@@ -32,15 +32,15 @@
             </trans-unit>
             <trans-unit id="5f0022bbfc1dcce21baa22fd1de927d6" resname="repositories.table.header.needsTranslation">
                 <source xml:lang="en">Need Translation</source>
-                <target xml:lang="es">Necesita traducción</target>
+                <target xml:lang="es">Need Translation</target>
             </trans-unit>
             <trans-unit id="2655c77cee13e44277f54a2c2b74c2c7" resname="repositories.table.header.needsReview">
                 <source xml:lang="en">Need Review</source>
-                <target xml:lang="es">Necesita revisión</target>
+                <target xml:lang="es">Need Review</target>
             </trans-unit>
             <trans-unit id="4f91d07a05540de4494ba58f13b7d5f6" resname="repositories.table.row.numberOfWords">
                 <source xml:lang="en">{numberOfWords, plural, =1 {# word} other {# words}}</source>
-                <target xml:lang="es">{numberOfWords, plural, =1 {# word} otro {# words}}</target>
+                <target xml:lang="es">{numberOfWords, plural, =1 {# word} other {# words}}</target>
             </trans-unit>
             <trans-unit id="cfa4203363a301b81cfdb49d32073407" resname="repositories.table.row.rejected">
                 <source xml:lang="en">{numberOfRejected, plural, =0 {None Rejected} other{# Rejected}}</source>
@@ -48,15 +48,15 @@
             </trans-unit>
             <trans-unit id="9ebfeea2be338adb16c93ddb21ceced0" resname="repositories.table.row.done">
                 <source xml:lang="en">Done</source>
-                <target xml:lang="es">Hecho</target>
+                <target xml:lang="es">Done</target>
             </trans-unit>
             <trans-unit id="27f7d50531c78df76e58bab765ded171" resname="repositories.localeStats.close">
                 <source xml:lang="en">Close</source>
-                <target xml:lang="es">Cerrar</target>
+                <target xml:lang="es">Close</target>
             </trans-unit>
             <trans-unit id="2e9799b981e321ac4966c01897398eb2" resname="search.placeholder">
                 <source xml:lang="en">Search term...</source>
-                <target xml:lang="es">Término de búsqueda</target>
+                <target xml:lang="es">Search term...</target>
             </trans-unit>
             <trans-unit id="a1d2e51636a16ff21536147f6b7b18f6" resname="search.filter.id">
                 <source xml:lang="en">Id</source>
@@ -64,39 +64,39 @@
             </trans-unit>
             <trans-unit id="d4f23966c034a1a65be1f0149e6ebe06" resname="search.filter.source">
                 <source xml:lang="en">Source</source>
-                <target xml:lang="es">Fuente</target>
+                <target xml:lang="es">Source</target>
             </trans-unit>
             <trans-unit id="dad9fc745dae816c64b3438a73a0524e" resname="search.filter.target">
                 <source xml:lang="en">Target</source>
-                <target xml:lang="es">Destino</target>
+                <target xml:lang="es">Target</target>
             </trans-unit>
             <trans-unit id="2048304935f28801ad9dfbe16e5d3ae0" resname="search.filter.exact">
                 <source xml:lang="en">Exact</source>
-                <target xml:lang="es">Exacto</target>
+                <target xml:lang="es">Exact</target>
             </trans-unit>
             <trans-unit id="5f48eb3ef3234e38c02672a5188d1753" resname="search.filter.contains">
                 <source xml:lang="en">Contains</source>
-                <target xml:lang="es">Contiene</target>
+                <target xml:lang="es">Contains</target>
             </trans-unit>
             <trans-unit id="b0106eb35092730c0fbdaa3543750e96" resname="search.filter.ilike">
                 <source xml:lang="en">ILike</source>
-                <target xml:lang="es">Me gusta</target>
+                <target xml:lang="es">ILike</target>
             </trans-unit>
             <trans-unit id="11e146e2c2f9121fea81aea583d670c2" resname="search.filter.searchAttribute">
                 <source xml:lang="en">Attribute</source>
-                <target xml:lang="es">Atributo</target>
+                <target xml:lang="es">Attribute</target>
             </trans-unit>
             <trans-unit id="739f35ff2d7e20437323f07d8f73f869" resname="search.filter.searchType">
                 <source xml:lang="en">Type</source>
-                <target xml:lang="es">Tipo</target>
+                <target xml:lang="es">Type</target>
             </trans-unit>
             <trans-unit id="c7662e78c9249df19801ce7d48c58e85" resname="search.statusDropdown.title">
                 <source xml:lang="en">Filter by</source>
-                <target xml:lang="es">Filtrar por</target>
+                <target xml:lang="es">Filter by</target>
             </trans-unit>
             <trans-unit id="76cadc54ffc59f7bcf3d88cc218545ce" resname="search.statusDropdown.used">
                 <source xml:lang="en">Used</source>
-                <target xml:lang="es">Usado</target>
+                <target xml:lang="es">Used</target>
             </trans-unit>
             <trans-unit id="0a48b37e810e705e7757056280951372" resname="search.statusDropdown.status">
                 <source xml:lang="en">Status</source>
@@ -108,7 +108,7 @@
             </trans-unit>
             <trans-unit id="669084ff932f436af35148886619cbb4" resname="search.statusDropdown.translated">
                 <source xml:lang="en">Translated</source>
-                <target xml:lang="es">Traducido</target>
+                <target xml:lang="es">Translated</target>
             </trans-unit>
             <trans-unit id="2f0fedbcc5615b4b781f71d7b3968427" resname="search.statusDropdown.needsReview">
                 <source xml:lang="en">Needs Review</source>
@@ -132,11 +132,11 @@
             </trans-unit>
             <trans-unit id="fe5a6bff90852e898bdd367accaa3adc" resname="search.pagination.isLoading">
                 <source xml:lang="en">Loading...</source>
-                <target xml:lang="es">Cargando…</target>
+                <target xml:lang="es">Loading...</target>
             </trans-unit>
             <trans-unit id="13f2f400a89595778cf8e3614ebbc907" resname="search.result.empty">
-                <source xml:lang="en">There are no results. Update your search parameter to find what you're looking for!</source>
-                <target xml:lang="es">There are no results. Update your search parameter to find what you're looking for!</target>
+                <source xml:lang="en">There are no results. Update your search parameter to find what you&apos;re looking for!</source>
+                <target xml:lang="es">There are no results. Update your search parameter to find what you&apos;re looking for!</target>
             </trans-unit>
             <trans-unit id="3be78530b2cf50a3c10168be701719b4" resname="search.result.selectRepoAndLocale">
                 <source xml:lang="en">Select at least one repository and locale before you can search.</source>
@@ -267,8 +267,8 @@
                 <target xml:lang="es">There was an error deleting the translation.</target>
             </trans-unit>
             <trans-unit id="716b4e596055920a228c3c633ee8ce52" resname="textUnit.cancel.confirmation">
-                <source xml:lang="en">Are you sure you want to cancel editing? You will lose the changes you've made.</source>
-                <target xml:lang="es">Are you sure you want to cancel editing? You will lose the changes you've made.</target>
+                <source xml:lang="en">Are you sure you want to cancel editing? You will lose the changes you&apos;ve made.</source>
+                <target xml:lang="es">Are you sure you want to cancel editing? You will lose the changes you&apos;ve made.</target>
             </trans-unit>
             <trans-unit id="be091400498baa394c7d7224641edf9d" resname="search.repository.btn.text">
                 <source xml:lang="en">{numberOfSelectedRepositories, plural, =0{Repositories} =1{1 repository} other{# repositories}}</source>
@@ -535,8 +535,8 @@
                 <target xml:lang="es">Fill in ALL of the following fields to save without bootstrapping</target>
             </trans-unit>
             <trans-unit id="3a9b5236dc2cc0b272120f1998d11e44" resname="settings.label.saveWithoutBootstrapInstructions.tooltip">
-                <source xml:lang="en">You don't need to bootstrap if Mojito has already set up the folder structures from previous Mojito installs.  Bootstraping allows Mojito to set up the App User and Box folder structures in preparation for project requests, and other features</source>
-                <target xml:lang="es">You don't need to bootstrap if Mojito has already set up the folder structures from previous Mojito installs.  Bootstraping allows Mojito to set up the App User and Box folder structures in preparation for project requests, and other features</target>
+                <source xml:lang="en">You don&apos;t need to bootstrap if Mojito has already set up the folder structures from previous Mojito installs.  Bootstraping allows Mojito to set up the App User and Box folder structures in preparation for project requests, and other features</source>
+                <target xml:lang="es">You don&apos;t need to bootstrap if Mojito has already set up the folder structures from previous Mojito installs.  Bootstraping allows Mojito to set up the App User and Box folder structures in preparation for project requests, and other features</target>
             </trans-unit>
             <trans-unit id="c40bda6184b2a6ef9f1bb6122c1d254e" resname="settings.modal.title.pleaseWait">
                 <source xml:lang="en">Please Wait</source>

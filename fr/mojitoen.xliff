@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
     <file datatype="javapropertyresourcebundle" original="en.properties" source-language="en" target-language="fr">
         <body>
@@ -135,8 +135,8 @@
                 <target xml:lang="fr">Chargement ...</target>
             </trans-unit>
             <trans-unit id="13f2f400a89595778cf8e3614ebbc907" resname="search.result.empty">
-                <source xml:lang="en">There are no results. Update your search parameter to find what you're looking for!</source>
-                <target xml:lang="fr">Il n'y a pas de résultats. Changez vos paramètres de recherche pour trouver ce que vous souhaitez !</target>
+                <source xml:lang="en">There are no results. Update your search parameter to find what you&apos;re looking for!</source>
+                <target xml:lang="fr">Il n&apos;y a pas de résultats. Changez vos paramètres de recherche pour trouver ce que vous souhaitez !</target>
             </trans-unit>
             <trans-unit id="3be78530b2cf50a3c10168be701719b4" resname="search.result.selectRepoAndLocale">
                 <source xml:lang="en">Select at least one repository and locale before you can search.</source>
@@ -196,7 +196,7 @@
             </trans-unit>
             <trans-unit id="ffef3c1b7eefa650050cd9fee5592929" resname="workbench.toolbar.status">
                 <source xml:lang="en">Status</source>
-                <target xml:lang="fr">Status</target>
+                <target xml:lang="fr">Statut</target>
             </trans-unit>
             <trans-unit id="a812221ccb448551b0638da24efa3118" resname="workbench.toolbar.numberOfSelectedTextUnits">
                 <source xml:lang="en">{numberOfSelectedTextUnits, plural, =0 {None selected} other{# selected}}</source>
@@ -252,11 +252,11 @@
             </trans-unit>
             <trans-unit id="04cbb5bb1cba9524d41e2c045538c319" resname="textUnit.save.failed">
                 <source xml:lang="en">There was an error saving the translation.  Please try again later.</source>
-                <target xml:lang="fr">Il y a eu une erreur lors de la sauvegarde de la traduction. Re-essayez plus tard. </target>
+                <target xml:lang="fr">Il y a eu une erreur lors de la sauvegarde de la traduction. Re-essayez plus tard.</target>
             </trans-unit>
             <trans-unit id="0018c86b560214c00453647e0f8364ad" resname="textUnit.check.failed">
                 <source xml:lang="en">Your translation failed the integrity check.  Some placeholders may not be in the correct place and the format may not be correct.  Are you sure you want to save anyways?</source>
-                <target xml:lang="fr">Votre traduction a échoué le test d'intégrité. Certains espaces réservés peuvent être au mauvais endroit ou le format est incorrecte. Etes-vous sûr que vous voulez enregistrer ?</target>
+                <target xml:lang="fr">Votre traduction a échoué le test d&apos;intégrité. Certains espaces réservés peuvent être au mauvais endroit ou le format est incorrecte. Etes-vous sûr que vous voulez enregistrer ?</target>
             </trans-unit>
             <trans-unit id="7656c462cda1f8bad4f3fba223038a95" resname="textUnit.checkandsave.failed">
                 <source xml:lang="en">There was an error checking and saving the translation.</source>
@@ -267,7 +267,7 @@
                 <target xml:lang="fr">Il y a eu une erreur lors de la suppréssion la traduction.</target>
             </trans-unit>
             <trans-unit id="716b4e596055920a228c3c633ee8ce52" resname="textUnit.cancel.confirmation">
-                <source xml:lang="en">Are you sure you want to cancel editing? You will lose the changes you've made.</source>
+                <source xml:lang="en">Are you sure you want to cancel editing? You will lose the changes you&apos;ve made.</source>
                 <target xml:lang="fr">Etes-vous sûr de vouloir annuler la modification ? Vous perdrez les modifications que vous avez effectuée</target>
             </trans-unit>
             <trans-unit id="be091400498baa394c7d7224641edf9d" resname="search.repository.btn.text">
@@ -288,7 +288,7 @@
             </trans-unit>
             <trans-unit id="4934ae939c4416f80ca37d7185f9fb5b" resname="search.locale.selectAll">
                 <source xml:lang="en">All</source>
-                <target xml:lang="fr">Toutes</target>
+                <target xml:lang="fr">Tous</target>
             </trans-unit>
             <trans-unit id="48aea1b5a11e518989bd203c83da36b3" resname="search.locale.selectNone">
                 <source xml:lang="en">None</source>
@@ -308,11 +308,11 @@
             </trans-unit>
             <trans-unit id="79ed96bfe7c24fa9a768397ed176124c" resname="login.form.error">
                 <source xml:lang="en">Invalid username and password.</source>
-                <target xml:lang="fr">Nom d'utilisateur et mot de passe invalide.</target>
+                <target xml:lang="fr">Nom d&apos;utilisateur et mot de passe invalide.</target>
             </trans-unit>
             <trans-unit id="157cb17124f5d7e6f0b658eb4e1bfdd4" resname="login.form.title">
                 <source xml:lang="en">Welcome back, please log in.</source>
-                <target xml:lang="fr">Merci pour votre nouvelle visite, s'il vous plaît connectez-vous</target>
+                <target xml:lang="fr">Merci pour votre nouvelle visite, s&apos;il vous plaît connectez-vous</target>
             </trans-unit>
             <trans-unit id="a5820f69fd5f968a7d960c769c9ab24d" resname="login.form.login">
                 <source xml:lang="en">Log in</source>
@@ -320,7 +320,7 @@
             </trans-unit>
             <trans-unit id="7a08ee26d512dad30a3050720c8171bc" resname="login.form.username">
                 <source xml:lang="en">username</source>
-                <target xml:lang="fr">nom de l'utilisateur</target>
+                <target xml:lang="fr">nom de l&apos;utilisateur</target>
             </trans-unit>
             <trans-unit id="997a06b3d218fb34079e0ed4fb393078" resname="login.form.password">
                 <source xml:lang="en">password</source>
@@ -404,11 +404,11 @@
             </trans-unit>
             <trans-unit id="2cbc8b5bdff49967010db761d769c68a" resname="drops.status.importing">
                 <source xml:lang="en">Importing</source>
-                <target xml:lang="fr">En cours d'import</target>
+                <target xml:lang="fr">En cours d&apos;import</target>
             </trans-unit>
             <trans-unit id="2cd7f11cbcb82f4fb9bbef31bbe3a5a5" resname="drops.status.sending">
                 <source xml:lang="en">Sending</source>
-                <target xml:lang="fr">En cours d'envoi</target>
+                <target xml:lang="fr">En cours d&apos;envoi</target>
             </trans-unit>
             <trans-unit id="d65a68ed4aa6fef2e38b25096dd2c9ea" resname="drops.status.inTranslation">
                 <source xml:lang="en">In Translation</source>
@@ -440,19 +440,19 @@
             </trans-unit>
             <trans-unit id="e2399c808ca5f888d879b8b170f437b1" resname="drops.newTranslationRequest.alert">
                 <source xml:lang="en">New Translation Request is being sent</source>
-                <target xml:lang="fr">Un nouveau projet de traduction est en cours d'envoi</target>
+                <target xml:lang="fr">Un nouveau projet de traduction est en cours d&apos;envoi</target>
             </trans-unit>
             <trans-unit id="9aa50cd0ccb9ebf65b5b5cddab866dc4" resname="drops.newReviewRequest.alert">
                 <source xml:lang="en">New Review Request is being sent</source>
-                <target xml:lang="fr">Un nouveau projet de revue est en cours d'envoi</target>
+                <target xml:lang="fr">Un nouveau projet de revue est en cours d&apos;envoi</target>
             </trans-unit>
             <trans-unit id="c8a940af8a76ba6b728123716dfb8e35" resname="drops.beingImported.alert">
                 <source xml:lang="en">Request is being imported</source>
-                <target xml:lang="fr">Le projet est en cours d'import</target>
+                <target xml:lang="fr">Le projet est en cours d&apos;import</target>
             </trans-unit>
             <trans-unit id="ba515000ac1dbb0f27fb6c4bc974bace" resname="drops.beingCanceled.alert">
                 <source xml:lang="en">Request is being canceled</source>
-                <target xml:lang="fr">Le projet est en cours d'annulation</target>
+                <target xml:lang="fr">Le projet est en cours d&apos;annulation</target>
             </trans-unit>
             <trans-unit id="e0fd57b245b1778dc1d7c316d3db4746" resname="settings.box.clientId">
                 <source xml:lang="en">Client Id</source>
@@ -488,7 +488,7 @@
             </trans-unit>
             <trans-unit id="75245de208794de5da9ae5bcfb8ce149" resname="settings.box.dropsFolderId">
                 <source xml:lang="en">Project Requests Folder Id</source>
-                <target xml:lang="fr">"Folder Id" pour les projets</target>
+                <target xml:lang="fr">&quot;Folder Id&quot; pour les projets</target>
             </trans-unit>
             <trans-unit id="7e5fe4b85dfcafe53cf6d41b1e460626" resname="settings.box.bootstrap">
                 <source xml:lang="en">Bootstrap</source>
@@ -528,27 +528,27 @@
             </trans-unit>
             <trans-unit id="6c29ac73b382d07228298ccb0b957c56" resname="settings.label.saveWithoutBootstrap">
                 <source xml:lang="en">Click here to add extra fields and skip bootstrapping</source>
-                <target xml:lang="fr">Cliquez ici pour ajouter des champs supplémentaires et ignorer l'initialisation</target>
+                <target xml:lang="fr">Cliquez ici pour ajouter des champs supplémentaires et ignorer l&apos;initialisation</target>
             </trans-unit>
             <trans-unit id="e0834205fea7ff1dcf438c3f214c4423" resname="settings.label.saveWithoutBootstrapInstructions">
                 <source xml:lang="en">Fill in ALL of the following fields to save without bootstrapping</source>
                 <target xml:lang="fr">Remplissez tous les champs suivants pour enregistrer sans initialisation</target>
             </trans-unit>
             <trans-unit id="3a9b5236dc2cc0b272120f1998d11e44" resname="settings.label.saveWithoutBootstrapInstructions.tooltip">
-                <source xml:lang="en">You don't need to bootstrap if Mojito has already set up the folder structures from previous Mojito installs.  Bootstraping allows Mojito to set up the App User and Box folder structures in preparation for project requests, and other features</source>
-                <target xml:lang="fr">Vous n'avez pas besoin d'effectuer l'initialisation si Mojto a déjà créé les structures de dossiers lors d'une installation précédente. L'initiallisation permet à Mojito de créer l'utilisateur pour l'integration de l'application et les structures de dossiers dans Box pour stocker les projets et autres fonctionalités</target>
+                <source xml:lang="en">You don&apos;t need to bootstrap if Mojito has already set up the folder structures from previous Mojito installs.  Bootstraping allows Mojito to set up the App User and Box folder structures in preparation for project requests, and other features</source>
+                <target xml:lang="fr">Vous n&apos;avez pas besoin d&apos;effectuer l&apos;initialisation si Mojto a déjà créé les structures de dossiers lors d&apos;une installation précédente. L&apos;initiallisation permet à Mojito de créer l&apos;utilisateur pour l&apos;integration de l&apos;application et les structures de dossiers dans Box pour stocker les projets et autres fonctionalités</target>
             </trans-unit>
             <trans-unit id="c40bda6184b2a6ef9f1bb6122c1d254e" resname="settings.modal.title.pleaseWait">
                 <source xml:lang="en">Please Wait</source>
-                <target xml:lang="fr">Attendez s'il vous plaît</target>
+                <target xml:lang="fr">Attendez s&apos;il vous plaît</target>
             </trans-unit>
             <trans-unit id="ded1976b4ac246ab31df3d9d6cc59a2c" resname="settings.modal.box.message">
                 <source xml:lang="en">API Configurations is being set up</source>
-                <target xml:lang="fr">Les paramètres pour l'API sont en cours de configuration</target>
+                <target xml:lang="fr">Les paramètres pour l&apos;API sont en cours de configuration</target>
             </trans-unit>
             <trans-unit id="23ee71d49811cdb8fa1cb73fb828ed27" resname="settings.message.waitingForInfo">
                 <source xml:lang="en">Retrieving Information.  Please wait.</source>
-                <target xml:lang="fr">Acquisition d'information en cours. Veuillez patienter.</target>
+                <target xml:lang="fr">Acquisition d&apos;information en cours. Veuillez patienter.</target>
             </trans-unit>
             <trans-unit id="b21e365ef37e9f7b377b3ee068aecd2f" resname="settings.message.notAvailableYet">
                 <source xml:lang="en">Not Available Yet</source>
@@ -564,7 +564,7 @@
             </trans-unit>
             <trans-unit id="cad091f986eace7b3b76a88df0ad8c8b" resname="error.modal.message.loggedOut">
                 <source xml:lang="en">Session expired.  Please re-authenticate.</source>
-                <target xml:lang="fr">La session a expiré. Ré-authentifiez vous, s'il vous plaît.</target>
+                <target xml:lang="fr">La session a expiré. Ré-authentifiez vous, s&apos;il vous plaît.</target>
             </trans-unit>
         </body>
     </file>
